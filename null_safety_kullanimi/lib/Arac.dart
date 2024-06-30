@@ -1,5 +1,4 @@
 class Arac{
-
   late String renk;
   late String vites;
 
