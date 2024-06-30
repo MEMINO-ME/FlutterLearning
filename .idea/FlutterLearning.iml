@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/degiskenler_ve_veri_tipleri/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/degiskenler_ve_veri_tipleri/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/degiskenler_ve_veri_tipleri/build" />
+      <excludeFolder url="file://$MODULE_DIR$/firstProject/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/firstProject/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/firstProject/build" />
+      <excludeFolder url="file://$MODULE_DIR$/nesne_tabanli_programlama/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/nesne_tabanli_programlama/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/nesne_tabanli_programlama/build" />
+      <excludeFolder url="file://$MODULE_DIR$/null_safety_kullanimi/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/null_safety_kullanimi/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/null_safety_kullanimi/build" />
+      <excludeFolder url="file://$MODULE_DIR$/proje_isim/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/proje_isim/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/proje_isim/build" />
+      <excludeFolder url="file://$MODULE_DIR$/standart_programlama_yapilari/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/standart_programlama_yapilari/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/standart_programlama_yapilari/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
